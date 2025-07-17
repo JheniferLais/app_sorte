@@ -1,3 +1,3 @@
-# app1_sorte
+# app_sorte
 
-A new Flutter project.
+primeiro projeto flutter venturus
